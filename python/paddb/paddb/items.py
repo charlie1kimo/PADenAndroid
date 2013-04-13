@@ -10,9 +10,34 @@ class PaddbItem(Item):
 	# name = Field()
 	pass
 
-class MonstersItem(Item):
+class MonsterItem(Item):
 	# Monsters items are defined here
 	ID = Field()
 	name = Field()
 	altName = Field()
 	imgLink = Field()
+
+class MonsterInfo(MonsterItem):
+	# Monster info objects are defined here
+	imgLarge = Field()
+	jp_name = Field()
+	type = Field()
+	element = Field()
+	rarity = Field()
+	Cost = Field()
+	level = Field()
+	hp = Field()
+	atk = Field()
+	rcv = Field()
+	as_feeder = Field()
+	power_up = Field()
+	skill = Field()
+	leader_skill = Field()
+	minSkillLv = Field()
+	maxSkillLv = Field()
+	minSkillTurns = Field()
+	maxSkillTurns = Field()
+	wayToGet = Field()
+	evolveMaterials = Field()
+	evolveToID = Field()
+

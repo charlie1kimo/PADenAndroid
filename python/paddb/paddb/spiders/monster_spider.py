@@ -1,7 +1,7 @@
 from scrapy.spider import BaseSpider
 from scrapy.selector import HtmlXPathSelector
 
-from paddb.items import MonstersItem
+from paddb.items import MonsterItem
 
 class MonsterSpider(BaseSpider):
 	name = "monster"
@@ -15,7 +15,7 @@ class MonsterSpider(BaseSpider):
 		mobList = []
 		monsters = hxs.select('//div[contains(@class, "indexframe")]')
 		for monster in monsters:
-			mobItem = MonstersItem()
+			mobItem = MonsterItem()
 			mobItem['imgLink'] = monster.select('.//a/img/@data-original').extract()
 			mobItem['name'] = monster.select('.//a/img/@title').extract()
 			mobItem['altName'] = monster.select('.//a/img/@alt').extract()
