@@ -24,7 +24,7 @@ class MonsterInfo(MonsterItem):
 	type = Field()
 	element = Field()
 	rarity = Field()
-	Cost = Field()
+	cost = Field()
 	level = Field()
 	hp = Field()
 	atk = Field()

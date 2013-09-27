@@ -1,0 +1,908 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"get",
+				"getTopLevelWindow"
+			],
+			[
+				"change",
+				"changeAmount"
+			],
+			[
+				"stat",
+				"statusBarMain"
+			],
+			[
+				"hex",
+				"hexapod"
+			],
+			[
+				"aui",
+				"auiNotebookMain"
+			],
+			[
+				"update",
+				"updateLegCapgaugeGrid"
+			],
+			[
+				"read",
+				"readonlyAttr"
+			],
+			[
+				"Hex",
+				"Hexalign"
+			],
+			[
+				"leg",
+				"legCapgaugeGrid"
+			],
+			[
+				"adjustHexp",
+				"adjustHexapodGrid"
+			],
+			[
+				"adju",
+				"adjustHexapodGrid"
+			],
+			[
+				"bSizer",
+				"bSizerAdjustGridControl"
+			],
+			[
+				"GetP",
+				"GetPageCount"
+			],
+			[
+				"refres",
+				"refreshWidget"
+			],
+			[
+				"grid",
+				"gridResult"
+			],
+			[
+				"boxSi",
+				"boxSizerContent"
+			],
+			[
+				"boxSizerCon",
+				"boxSizerContent"
+			],
+			[
+				"adj",
+				"adjustHexapodGrid"
+			],
+			[
+				"comp",
+				"comp_index"
+			],
+			[
+				"com",
+				"compensators"
+			],
+			[
+				"compen",
+				"compensator_name_map"
+			],
+			[
+				"GR",
+				"GRID_VALUE_FLOAT"
+			],
+			[
+				"GRI",
+				"GRID_VALUE_BOOL"
+			],
+			[
+				"GRID_",
+				"GRID_VALUE_STRING"
+			],
+			[
+				"butt",
+				"buttonMoveTest"
+			],
+			[
+				"boxSizer",
+				"boxSizerControls"
+			],
+			[
+				"D",
+				"DefaultSize"
+			],
+			[
+				"De",
+				"DefaultPosition"
+			],
+			[
+				"Defau",
+				"DefaultSize"
+			],
+			[
+				"gridDi",
+				"gridDisplayDiffScrolledPanel"
+			],
+			[
+				"tex",
+				"textCtrlNewTrackLength"
+			],
+			[
+				"textC",
+				"textCtrlTargetTrackLength"
+			],
+			[
+				"boxSiz",
+				"boxSizerPanelDisplay"
+			],
+			[
+				"st",
+				"statusBarMain"
+			],
+			[
+				"ScrolledPan",
+				"ScrolledPanelBase"
+			],
+			[
+				"GetC",
+				"GetCellValue"
+			],
+			[
+				"fir",
+				"firstDeviceKey"
+			],
+			[
+				"dev",
+				"deviceKey"
+			],
+			[
+				"funct",
+				"funct_type"
+			],
+			[
+				"fu",
+				"funct_type"
+			],
+			[
+				"function",
+				"functions_return_type"
+			],
+			[
+				"motor",
+				"motorNum"
+			],
+			[
+				"temp",
+				"tempList"
+			],
+			[
+				"devices",
+				"devicesKey"
+			],
+			[
+				"Se",
+				"SetVelocity"
+			],
+			[
+				"Jo",
+				"JogPositive"
+			],
+			[
+				"device",
+				"deviceKey"
+			],
+			[
+				"relat",
+				"relativeSteps"
+			],
+			[
+				"rel",
+				"relativeSteps"
+			],
+			[
+				"motr",
+				"motorNum"
+			],
+			[
+				"cmdli",
+				"cmdlib"
+			],
+			[
+				"moto",
+				"motorNum"
+			],
+			[
+				"devi",
+				"devices"
+			],
+			[
+				"CmdLib",
+				"CmdLib8742"
+			],
+			[
+				"err",
+				"errStr"
+			],
+			[
+				"ge",
+				"generateRuntimeError"
+			],
+			[
+				"GetE",
+				"GetErrorMsg"
+			],
+			[
+				"GetErr",
+				"GetErrorNum"
+			],
+			[
+				"delay",
+				"delayDiscovery"
+			],
+			[
+				"GetMo",
+				"GetMotionDone"
+			],
+			[
+				"Jog",
+				"JogNegative"
+			],
+			[
+				"NISy",
+				"NISysCfgCloseHandle"
+			],
+			[
+				"NI",
+				"NISysCfgCloseHandle"
+			],
+			[
+				"NIsys",
+				"NISysCfgResourceProperty"
+			],
+			[
+				"mysqli_conn",
+				"mysqli_connect_errno"
+			],
+			[
+				"u",
+				"u"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "paddb/paddb/spiders/monster_spider.py",
+			"settings":
+			{
+				"buffer_size": 832,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "paddb/paddb/spiders/monsterInfo_spider.py",
+			"settings":
+			{
+				"buffer_size": 2063,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "paddb/paddb/items.py",
+			"settings":
+			{
+				"buffer_size": 865,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "paddb/paddb/pipelines.py",
+			"settings":
+			{
+				"buffer_size": 249,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "paddb/paddb/settings.py",
+			"settings":
+			{
+				"buffer_size": 443,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 288.0,
+		"selected_items":
+		[
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"close",
+				"Project: Close"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"snippet html",
+				"Snippet: html"
+			],
+			[
+				"snippet",
+				"Snippet: html"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			],
+			[
+				"toggle side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"toggle sid",
+				"View: Toggle Side Bar"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"run",
+				"Build: Run"
+			],
+			[
+				"list py",
+				"Build: List Python Files"
+			],
+			[
+				"sid",
+				"View: Toggle Side Bar"
+			],
+			[
+				"set pytho",
+				"Set Syntax: Python"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 153.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/cchen/Documents/GitHub/PADenAndroid/README",
+		"/C/Users/cchen/Documents/GitHub/PADenAndroid/python/paddb/scrapy.cfg",
+		"/C/Users/cchen/Documents/GitHub/PADenAndroid/python/paddb/mobs.json",
+		"/N/Shared/Users/cchen/align_gui/__init__.py",
+		"/N/Shared/Users/cchen/env_database/env_plots2/controls.py",
+		"/N/Shared/Users/cchen/align_gui/align2.py",
+		"/N/Shared/Users/cchen/env_database/env_plots2/__init__.py",
+		"/N/Shared/Users/cchen/align_gui/numbers.py",
+		"/N/Shared/Users/cchen/env_database/env_plots2/env_plots2.py",
+		"/N/Shared/Users/cchen/sc_testalignpy/test_align_gui_beta.py",
+		"/N/Shared/Users/cchen/sc_testalignpy/test_align_gui_2.py",
+		"/N/Shared/Users/cchen/sc_testalignpy/test_align_gui.py",
+		"/C/surdirs/MET5/SC_M1/R1/sc_testalignpy/testalign.py",
+		"/C/Program Files/New Focus/New Focus Picomotor Application/Bin/Log/Log2013-08-19.txt",
+		"/C/Program Files/New Focus/New Focus Picomotor Application/Bin/PicomotorApp.exe.config",
+		"/C/Program Files/New Focus/New Focus Picomotor Application/Bin/Log/Log2013-08-14.txt",
+		"/N/Shared/Users/cchen/cap_gauge/cmdLib_ironpython.py",
+		"/C/Users/cchen/Downloads/pythonnet-2.0-alpha2-clr2.0_131_py27_UCS2/test.py",
+		"/C/Program Files (x86)/New Focus/Picomotor Application/Samples/C#/Model 8742/OpenSingleDevice/OpenSingleDevice.cs",
+		"/N/Shared/Users/cchen/MetroPro/python_interface/find_ni_chassis.py",
+		"/C/Users/cchen/Downloads/373107d/readme.txt",
+		"/N/Shared/Users/cchen/cap_gauge/NI text based programming documents.txt",
+		"/N/Shared/Users/cchen/cap_gauge/NI9205.pdf",
+		"/N/Shared/Users/cchen/cap_gauge/National Instruments 9205 Config M2.txt",
+		"/C/omase/python/Lib/pydoc.py",
+		"/C/Apache24/htdocs/testMySQL.php",
+		"/N/Shared/Transfer/Luc/MRC/EPOgetzrn.scr",
+		"/N/Shared/Transfer/Luc/MRC/mrcgetzern.py",
+		"/N/Shared/Transfer/Charlie/newport4.txt",
+		"/N/Shared/Users/cchen/rtdServer/rtdConfig.ini",
+		"/C/Apache24/htdocs/phpinfo.php",
+		"/C/Apache24/conf/httpd.conf",
+		"/C/Users/cchen/Documents/web/hello.html",
+		"/C/Users/cchen/Documents/web/phpinfo.php",
+		"/C/Users/cchen/Downloads/ReadMe.txt",
+		"/C/Users/cchen/Documents/test.html",
+		"/N/Shared/Transfer/Charlie/TR_KLA_40mmCol_L.htm",
+		"/N/Shared/Transfer/Charlie/TR_KLA_40mmCol_L.xml",
+		"/N/Shared/Transfer/Charlie/Copy of MK_Sales_Orders.csv",
+		"/N/Shared/Transfer/Charlie/test.xml",
+		"/C/Users/cchen/.history",
+		"/C/omase/PyCode/pystart.py",
+		"/C/Python27/Lib/site-packages/pyreadline-1.7.1-py2.7-win32.egg/pyreadline/modes/vi.py",
+		"/C/Python27/Lib/site-packages/pyreadline-1.7.1-py2.7-win32.egg/pyreadline/modes/notemacs.py",
+		"/C/Python27/Lib/site-packages/pyreadline-1.7.1-py2.7-win32.egg/pyreadline/modes/basemode.py",
+		"/C/Python27/Lib/site-packages/pyreadline-1.7.1-py2.7-win32.egg/pyreadline/modes/emacs.py",
+		"/C/Python27/Lib/site-packages/pyreadline-1.7.1-py2.7-win32.egg/pyreadline/modes/notemacs.pyc",
+		"/C/Python27/Lib/site-packages/pyreadline-1.7.1-py2.7-win32.egg/readline.py",
+		"/C/Python27/Lib/atexit.py",
+		"/C/Users/cchen/Documents/python27_history.txt",
+		"/C/omase/python/Lib/site-packages/pyreadline/configuration/startup.py",
+		"/C/omase/python/share/doc/pyreadline/update_manual.py",
+		"/C/omase/python/share/doc/pyreadline/README.txt",
+		"/C/omase/python/Lib/site-packages/readline.py",
+		"/C/omase/Machinfo/wstart.bat",
+		"/C/omase/python/Lib/site-packages/pyreadline/__init__.py",
+		"/C/omase/python/Lib/site-packages/pyreadline/rlmain.py",
+		"/C/Python27/Lib/site-packages/pyreadline-1.7.1-py2.7-win32.egg/pyreadline/modes/__init__.py",
+		"/C/Python27/Lib/site-packages/pyreadline-1.7.1-py2.7-win32.egg/pyreadline/test/test_vi.py",
+		"/C/Python27/Lib/site-packages/pyreadline-1.7.1-py2.7-win32.egg/pyreadline/__init__.py",
+		"/N/Shared/Users/cchen/MySQL/mysql_connector/INSTALL.txt",
+		"/N/Shared/SW_Releases/breichma/Limited/pypkgs/Met5_M1/m1gui.py",
+		"/N/Shared/Users/cchen/py_utitlies/envdb_add_new_probes.py",
+		"/N/Shared/Users/cchen/latex/ReportLaTex.py",
+		"/N/Shared/Users/cchen/latex/SectionLaTex.py",
+		"/N/Shared/Users/cchen/latex/test.tex",
+		"/N/Shared/Users/cchen/latex/test.log",
+		"/N/Shared/Users/cchen/wxPython_tries/testFormats.txt",
+		"/N/Shared/Users/cchen/wxPython_examples/MatplotlibFourierDemo.py",
+		"/N/Shared/Users/cchen/wxPython_examples/matplotlib_cursor_demo.py",
+		"/C/Users/cchen/AppData/Roaming/Sublime Text 2/Packages/User/omase.sublime-build",
+		"/N/Shared/Users/cchen/env_database/envdb.py",
+		"/N/Shared/Users/cchen/radius3/weather_station.py",
+		"/C/svn/src/omMeas/trunk/ORM/Orm5/weathr25.c",
+		"/C/svn/src/omMeas/trunk/ORM/Orm5/alldmi02.c",
+		"/N/Shared/Users/gcrumbac/omMeas/rtdServer/rtdWex.py",
+		"/N/Shared/Users/gcrumbac/omMeas/rtdServer/Config.py",
+		"/N/Shared/Users/gcrumbac/omMeas/rtdServer/Station.py",
+		"/N/Shared/Users/gcrumbac/omMeas/rtdServer/SensorCache.py",
+		"/N/Shared/Users/gcrumbac/omMeas/wexLib/asynSched.py",
+		"/N/Shared/Users/gcrumbac/omMeas/rtdServer/rtdServer.py",
+		"/C/Users/cchen/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/svn/src/omMeas/trunk/ORM/Orm5/dmi_u02.c",
+		"/C/Users/cchen/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/cchen/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/N/Shared/Users/cchen/sublime_text2/cchen.sublime-project",
+		"/N/Shared/Users/cchen/radius3/gui/icons/add-tab.png",
+		"/N/Shared/Users/cchen/radius3/gui/gui.fbp",
+		"/N/Shared/Users/cchen/radius3/radius3.cfg",
+		"/N/Shared/Users/cchen/radius3/parameters.py",
+		"/C/Users/cchen/AppData/Roaming/Sublime Text 2/Packages/User/Python.sublime-settings",
+		"/C/Users/cchen/AppData/Roaming/Sublime Text 2/Packages/User/Distraction Free.sublime-settings",
+		"/C/Users/cchen/AppData/Roaming/Sublime Text 2/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/cchen/AppData/Roaming/Sublime Text 2/Packages/AdvancedNewFile/README.md",
+		"/C/Users/cchen/AppData/Roaming/Sublime Text 2/Packages/Emmet/Emmet.sublime-settings",
+		"/C/Users/cchen/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/N/Shared/Users/cchen/sublime_text2/test.html",
+		"/C/svn/src/omMeas/trunk/ORM/Orm5/genfct2.c",
+		"/C/omase/Machinfo/radius.cfg",
+		"/N/Shared/Users/gcrumbac/omMeas/rtdServer/rtdConfig.ini",
+		"/N/Shared/Users/cchen/wxPython tries/blackJack.py",
+		"/N/Shared/Users/cchen/omase_new/distribute-0.6.34/docs/using.txt",
+		"/C/omase/bat/masteru.bat",
+		"/C/Users/cchen/AppData/Roaming/Sublime Text 2/Packages/User/test.sublime-build",
+		"/N/Shared/Users/cchen/wx_extensions/grid.py",
+		"/N/Shared/Users/cchen/wx_extensions/__init__.py"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"N:\\Shared\\Users\\cchen\\radius3\\gui"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"exception",
+			"alignObj",
+			"setuplegCapgaugeGrid",
+			"setupAdjustGrid",
+			"GetCellValue",
+			"self.cap_changes",
+			"		\n",
+			"Row",
+			"RowLabel",
+			"RowLabelSize",
+			"tabResult",
+			"updateData",
+			"PanelResults",
+			"updateData",
+			"self.topWindow",
+			"getTopWindow",
+			"PanelResults",
+			"SetupScrolling",
+			"self.zt_obj_zt_ret",
+			"self.gridEditable",
+			"self.values",
+			"radioButtonStartAll",
+			"self.p",
+			"PanelDisplayFields",
+			"self.terms",
+			"self.values",
+			"allterms",
+			"PanelDisplayFields",
+			"onSize",
+			"ScrolledPanel",
+			"align2",
+			"gridEditable",
+			"resultPanel",
+			"PanelDisplayFields",
+			"PROGRAM_VERSION",
+			"onAbout",
+			"statusBarMain",
+			"StatusBarGauge",
+			"usedperts",
+			"includeList",
+			"excludeList",
+			"log",
+			"re.sub",
+			"NISysCfgFilterModeMatches",
+			"NISysCfgResourceProperty",
+			"//",
+			"PropertyProductName",
+			"NISysCfgFilter",
+			"       //",
+			"NISysCfgServiceType",
+			"NISysCfgEnumExpertHandle",
+			"NISysCfgBool",
+			"serial_number",
+			"self.physicalChannel",
+			"scriptAlias",
+			"<IfModule dir_",
+			"<IfModule mime_module",
+			"directoryIndex",
+			"header",
+			"bkedit",
+			"self.figures['mode'",
+			"\\\\subfig",
+			"\\\\subfigure",
+			"self.figure",
+			"fig",
+			"plt",
+			"fileName",
+			"WRT_TO_ST",
+			"writePIIweather",
+			"BANK1_ADDR4",
+			"get_environment",
+			"check_weather",
+			"weather",
+			"print",
+			"'.'",
+			"procRxOne",
+			"procReqToRsp",
+			"rtdWexSession",
+			"__init__",
+			"eight",
+			"seven",
+			"six",
+			"Outputting",
+			"ignored_pack",
+			"mon",
+			" ",
+			"hello",
+			"2",
+			"print",
+			"4",
+			"Vintage",
+			"enter",
+			"tab",
+			"move",
+			"8",
+			"print [1, 2, 3, 4]",
+			"4",
+			"config",
+			"sensorName",
+			"lower",
+			"self",
+			"WHAATTTT",
+			"jeff",
+			" ",
+			"writeWexMeasureWeather",
+			"sTemperature",
+			"getPressure",
+			"calcAtmCorr",
+			"getTemperature",
+			"atmosphere_correct",
+			"readWexPacket",
+			"getProbeAlias",
+			"print",
+			"Hello",
+			"print",
+			"\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"updateLegCapgaugeGrid",
+			"updateAdjustGrid",
+			"includeList",
+			"",
+			" ",
+			"",
+			"#"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "paddb/paddb/spiders/monster_spider.py",
+					"settings":
+					{
+						"buffer_size": 832,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "paddb/paddb/spiders/monsterInfo_spider.py",
+					"settings":
+					{
+						"buffer_size": 2063,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								483,
+								483
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "paddb/paddb/items.py",
+					"settings":
+					{
+						"buffer_size": 865,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "paddb/paddb/pipelines.py",
+					"settings":
+					{
+						"buffer_size": 249,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "paddb/paddb/settings.py",
+					"settings":
+					{
+						"buffer_size": 443,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 124.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"mrc",
+				"MetroPro/python_interface/mrc3_client.py"
+			],
+			[
+				"cchen",
+				"sublime_text2/cchen.sublime-project"
+			],
+			[
+				"weather",
+				"radius3/weather_station.py"
+			],
+			[
+				"radius",
+				"radius3/weather_station.py"
+			],
+			[
+				"",
+				"wxPython tries/blackJack.py"
+			],
+			[
+				"insta",
+				"omase_new/install.bat"
+			],
+			[
+				"client",
+				"wave_meter_wrapper/bristol_wavelength_meter_client.py"
+			],
+			[
+				"bat",
+				"omase_new/install.bat"
+			],
+			[
+				"env_plot",
+				"env_database/env_plots2/env_plots2.py"
+			],
+			[
+				"grid",
+				"wx_extensions/grid.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/N/Shared/Users/cchen/sublime_text2/align_gui.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 215.0,
+	"status_bar_visible": true
+}
